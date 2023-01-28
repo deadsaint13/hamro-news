@@ -77,3 +77,7 @@
 .text-center{
     text-align: center;
 }
+.divide-paragraph {
+    column-count: 2;
+    text-align: justify;
+}
